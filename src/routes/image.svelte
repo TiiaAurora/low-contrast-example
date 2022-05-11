@@ -1,5 +1,9 @@
+<svelte:head>
+	<title>Contrast Accessibility Demonstration | Images And Colours</title>
+</svelte:head>
+
 <div class="sm:float-left sm:max-w-sm mr-4">
-	<img src="/colourful.jpg" alt="colourful" />
+	<img src="/colourful.jpg" alt="colourful umbrellas in the sky" />
 	Photo by
 
 	<a

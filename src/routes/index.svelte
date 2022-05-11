@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Contrast Accessibility Demonstration | Text</title>
+</svelte:head>
+
 <p>
 	This page is a demonstration on how you can implement a low contrast mode to help users with
 	photosensitivity / photophobia. With a small JavaScript snippet, you can easily either create a
@@ -48,8 +52,10 @@
 </code>
 
 <p>
-	The code is available on <a class="text-pink-400" href="https://github.com">GitHub</a>. A detailed
-	blog post explaining the reasoning is available on
+	The code is available on <a
+		class="text-pink-400"
+		href="https://github.com/TiiaAurora/low-contrast-example">GitHub</a
+	>. A detailed blog post explaining the reasoning is available on
 	<a class="text-pink-400" href="https://hashnode.com">Hashnode</a>.
 </p>
 <h2>Example Text</h2>
