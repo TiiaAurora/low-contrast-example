@@ -56,7 +56,11 @@
 		class="text-pink-400"
 		href="https://github.com/TiiaAurora/low-contrast-example">GitHub</a
 	>. A detailed blog post explaining the reasoning is available on
-	<a class="text-pink-400" href="https://hashnode.com">Hashnode</a>.
+	<a
+		class="text-pink-400"
+		href="https://blog.tiia.rocks/web-apps-why-offering-a-low-contrast-mode-makes-you-more-accessible-not-less"
+		>Hashnode</a
+	>.
 </p>
 <h2>Example Text</h2>
 <p>
